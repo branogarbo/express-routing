@@ -1,0 +1,23 @@
+{
+  "name": "express-routing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/branogarbo/express-routing.git"
+  },
+  "author": "Brian Longmore",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/branogarbo/express-routing/issues"
+  },
+  "homepage": "https://github.com/branogarbo/express-routing#readme",
+  "dependencies": {
+    "ejs": "^3.0.2",
+    "express": "^4.17.1"
+  }
+}
