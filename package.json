@@ -17,7 +17,6 @@
   },
   "homepage": "https://github.com/branogarbo/express-routing#readme",
   "dependencies": {
-    "ejs": "^3.0.2",
     "express": "^4.17.1"
   }
 }
